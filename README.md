@@ -1,0 +1,4 @@
+.tmuxinator
+===========
+
+my mux
